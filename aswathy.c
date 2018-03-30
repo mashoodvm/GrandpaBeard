@@ -13,5 +13,5 @@ scanf("%d",&x[i]);
 sum=sum+x[i];
 }
 avg=sum/n;
-printf("sum is =%d"c 
-
+printf("sum is =%d"c); 
+}
